@@ -1,5 +1,3 @@
-# Fall Detection
-
 # Fall Detection using Joint Movement and Motion History Images (MHI)
 
 This project detects human falls by analyzing video data using a two-stream approach:
@@ -47,4 +45,10 @@ Both streams are trained with machine learning models, and their predictions are
 - OpenCV
 - Scikit-learn 
 - Pandas, NumPy
+
+## 📈 Results
+
+Here are the model accuracy results:
+
+![Fussion Results](Resultsimg/Fussion results.jpg)
 
