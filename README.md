@@ -50,5 +50,5 @@ Both streams are trained with machine learning models, and their predictions are
 
 Here are the model accuracy results:
 
-![Fussion Results](Resultsimg/Fussion results.jpg)
+![Fussion Results](Resultsimg/Fussion_results.jpg)
 
